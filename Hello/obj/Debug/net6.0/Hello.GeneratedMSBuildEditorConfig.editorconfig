@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hello
-build_property.ProjectDir = C:\Users\waynech\source\repos\hello-world\Hello\
+build_property.ProjectDir = C:\Users\waynech\Source\Repos\hello-world\Hello\
